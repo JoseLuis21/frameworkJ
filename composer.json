@@ -1,0 +1,15 @@
+{
+    "name": "jose/prueba3",
+    "authors": [
+        {
+            "name": "JoseLuis21",
+            "email": "josephluihs@gmail.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4":{
+    		"Config\\" : "Config/"
+    	}
+    },
+    "require": {}
+}
